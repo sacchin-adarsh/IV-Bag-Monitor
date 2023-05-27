@@ -11,4 +11,6 @@ IoT Intravenous Fluid Monitoring uses a weight sensor to detect as the fluid lev
 Infusion bottle goes down and transmits the data over IoT. Once the system detects that the
 bottle has gone empty, it sends an alert over IoT
 
+![image](https://github.com/sacchin-adarsh/IV-Bag-Monitor/assets/57241781/fa800426-277c-41b7-bfdd-fb8d49c60422)
+
 
